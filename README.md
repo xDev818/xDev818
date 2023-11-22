@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at (later to post )
 
-- 📝 I regularly write articles on [https://medium.com/@olanalans12345](https://medium.com/@olanalans12345)
+- 📝 I regularly write articles on (later to post )
 
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **dg0at1818@gmail.com@gmail.com**
 
-- 📄 Know about my experiences (later to post ) [https://tinyurl.com/lnsolana](https://tinyurl.com/lnsolana)
+- 📄 Know about my experiences (later to post )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
