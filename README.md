@@ -19,12 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lance-olana-956035253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lance olana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18730456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18730456" height="30" width="40" /></a>
-<a href="https://kaggle.com/lanceolana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lanceolana" height="30" width="40" /></a>
-<a href="https://fb.com/lance olana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lance olana" height="30" width="40" /></a>
-<a href="https://instagram.com/lnsolna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lnsolna" height="30" width="40" /></a>
-<a href="https://medium.com/@olanalans12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olanalans12345" height="30" width="40" /></a>
+<a href="[https://fb.com/Nole Rotch](https://www.facebook.com/rapid.klein)" target="blank"><img align="center" alt="Nole Rotch" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
