@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/Nole Rotch](https://www.facebook.com/rapid.klein)" target="blank"><img align="center" alt="Nole Rotch" height="30" width="40" /></a>
+<a href="[https://fb.com/rapid.klein]" target="blank"><img align="center" alt="Nole Rotch" height="30" width="40" /></a>
 
 </p>
 
