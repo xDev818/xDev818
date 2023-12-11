@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xDev818&label=Profile%20views&color=0e75b6&style=flat" alt="Nole" /> </p>
 
 <p align="left"> <a href="https://github.com/xDev818/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xDev818" alt="Nole" /></a> </p>
+<p> [![trophy](https://github-profile-trophy.vercel.app/?username=xDev818)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 - 🌱 I’m currently using **NodeJS , React , Svelte & Svelte Kit, Pyhton,DJango, Flask, Flutter, .Net(C#,VB), MySQL, MYSQL, Firebase, PostGre, MongoDB**
 
