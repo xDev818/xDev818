@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **dg0at1818@gmail.com@gmail.com**
+- 📫 How to reach me **dg0at1818@gmail.com**
 
 - 📄 Know about my experiences (later to post )
 
