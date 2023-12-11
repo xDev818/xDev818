@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/xDev818/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xDev818" alt="Nole" /></a> </p>
 
-
 - 🌱 I’m currently using **NodeJS , React , Svelte & Svelte Kit, Pyhton,DJango, Flask, Flutter, .Net(C#,VB), MySQL, MYSQL, Firebase, PostGre, MongoDB**
 
 - 👨‍💻 All of my projects are available at (later to post )
